@@ -1,0 +1,6 @@
+#Ticket System Configuration
+#Sun Dec 15 20:39:30 IST 2024
+MaxTicketCapacity=10
+TicketBuyingTime=500
+TicketRetrievalTime=500
+TotalTickets=10
